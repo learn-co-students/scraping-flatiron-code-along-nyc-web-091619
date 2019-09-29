@@ -159,7 +159,7 @@ end
 ```
 
 Notice that we are already requiring Nokogiri, open-uri and Pry at the top of
-the file. We are ready to us Nokogiri and open-uri to get our HTML. Add the
+the file. We are ready to use Nokogiri and open-uri to get our HTML. Add the
 following line to your `.get_page` method:
 
 ```ruby
